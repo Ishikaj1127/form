@@ -1,0 +1,64 @@
+.form{
+    font-weight: bold;
+    font-size: 23px;
+}
+#box1{
+    font-weight: bold;
+    position: relative;
+    left: 50px;
+    top: 30px;
+}
+
+#box2{
+    font-weight: bold;
+    position: relative;
+    left: 50px;
+    top: 40px;
+}
+#box3{
+    font-weight: bold;
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+#box4{
+    font-weight: bold;
+    position: relative;
+    left: 50px;
+    top: 60px;
+}
+#form2{
+    font-weight: bold;
+    font-size: 25px;
+    position: relative;
+    top: 70px;
+}
+#box5{
+    font-weight: bold;
+    position: relative;
+    left: 50px;
+    top: 80px;
+}
+#box6{
+    font-weight: bold;
+    position: relative;
+    left: 50px;
+    top: 90px;
+}
+#form3{
+    font-weight: bold;
+    font-size: 25px;
+    position: relative;
+    top: 100px;
+}
+#boxes7{
+    font-weight: bold;
+    position: relative;
+    left: 50px;
+    top: 110px;
+}
+#box8{
+    font-weight: bold;
+    position: relative;
+    top: 120px;
+}
